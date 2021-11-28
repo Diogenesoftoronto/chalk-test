@@ -1,0 +1,26 @@
+{
+  "name": "chalk-test",
+  "version": "1.0.0",
+  "description": "This program tests chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "chalk-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Diogenesoftoronto/chalk-test.git"
+  },
+  "keywords": [
+    "chlktest",
+    "testchalk"
+  ],
+  "author": "Keith Noel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diogenesoftoronto/chalk-test/issues"
+  },
+  "homepage": "https://github.com/Diogenesoftoronto/chalk-test#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
